@@ -1,3 +1,16 @@
 .body {
     background-color: #8FBC8F;
 }
+.header {
+    margin: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact {
+    margin: 25px;
+    border: inset;
+    background-color: grey;
+}
+.container {
+    margin: 20px;
+    border: inset;
+}
