@@ -5,8 +5,17 @@
     margin: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
+.port-head {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.contact-head {
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; 
+}
 .contact {
-    margin: 25px;
+    margin: 5px;
     border: inset;
     background-color: grey;
 }
@@ -14,3 +23,10 @@
     margin: 20px;
     border: inset;
 }
+#page-content {
+    flex: 1 0 auto;
+  }
+#sticky-footer {
+    flex-shrink: 0;
+    position: fixed;
+  }
