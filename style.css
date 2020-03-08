@@ -1,20 +1,13 @@
-.body, html {
-    height: 100%;
-  }
+/* I was pointed to this code by a classmate, who found it oun mdbootstrap*/
 .bg {
-    /* The image used */
-    background-image: url("Images/houses-near-lake-and-mountain-3713709.jpg");
-  
-    /* Full height */
+    background-image: url("Images/houses-near-lake-and-mountain-3713709 copy.jpg");
     height: 100%;
-  
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   p {
-     color: tomato;
+     color: white;
   }
 .header {
     margin: 25px;
@@ -46,4 +39,8 @@
 #sticky-footer {
     flex-shrink: 0;
     position: fixed;
+    margin-top: 10px;
   }
+.foot-style {
+    margin-top: 0px;
+}
