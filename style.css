@@ -6,6 +6,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  /* The text color remains relatively difficult to read in its entirety. White was the best option. I will modify later.*/
   p {
      color: white;
   }

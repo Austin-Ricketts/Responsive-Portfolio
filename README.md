@@ -10,6 +10,10 @@
 ![Image description](Images/Screen_Shot8.png)
 ![Image description](Images/Screen_Shot9.png)
 ![Image description](Images/Screen_Shot-10.png)
+![Image description](Images/Screen_Shot11.png)
+![Image description](Images/Screen_Shot12.png)
+![Image description](Images/Screen_Shot13.png)
+
 
 The above images are screenshots that show the progress of my site architecture.
 
