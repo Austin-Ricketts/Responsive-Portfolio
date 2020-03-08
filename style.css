@@ -19,6 +19,9 @@
     border: inset;
     background-color: grey;
 }
+.card {
+    background-color: lightslategray;
+}
 .container {
     margin: 20px;
     border: inset;
