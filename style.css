@@ -1,6 +1,21 @@
-.body {
-    background-color: #8FBC8F;
-}
+.body, html {
+    height: 100%;
+  }
+.bg {
+    /* The image used */
+    background-image: url("Images/houses-near-lake-and-mountain-3713709.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  p {
+     color: tomato;
+  }
 .header {
     margin: 25px;
     font-family: 'Times New Roman', Times, serif;
@@ -16,18 +31,17 @@
 }
 .contact {
     margin: 5px;
-    border: inset;
-    background-color: grey;
+    background-color: transparent;
 }
 .card {
-    background-color: lightslategray;
+    background-color: transparent;
 }
 .container {
     margin: 20px;
-    border: inset;
 }
 #page-content {
     flex: 1 0 auto;
+    background-color: transparent;
   }
 #sticky-footer {
     flex-shrink: 0;
