@@ -1,6 +1,6 @@
-/* I was pointed to this code by a classmate, who found it oun mdbootstrap*/
+/* I was pointed to this code by a classmate, who found it on mdbootstrap*/
 .bg {
-    background-image: url("Images/houses-near-lake-and-mountain-3713709 copy.jpg");
+    background-image: url("Images/concrete-tunnel-3043424.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -8,20 +8,35 @@
   }
   /* The text color remains relatively difficult to read in its entirety. White was the best option. I will modify later.*/
   p {
-     color: white;
+     color: rgb(203, 211, 167);
+     font-family: 'Times New Roman', Times, serif;
   }
+
+.titles {
+    color: antiquewhite;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.repo-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .header {
     margin: 25px;
     font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
 }
 .port-head {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    color: antiquewhite;
 }
 .contact-head {
     margin: 5px;
     font-family: 'Times New Roman', Times, serif;
-    text-align: center; 
+    text-align: center;
+    color: antiquewhite;
 }
 .contact {
     margin: 5px;
